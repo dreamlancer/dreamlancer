@@ -121,6 +121,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/dreamlancer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dreamlancer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamlancer&layout=compact&langs_count=7&theme=dark"/>
-  <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=dreamlancer&theme=xcode"/>
+<!--   <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=dreamlancer&theme=xcode"/> -->
+   <img alt="IceDev528's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dreamlancer&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
  
   </a></div>
