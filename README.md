@@ -17,16 +17,29 @@ Here are some ideas to get you started:
 
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+DREAMLANCER.;I+AM+A+SEASONED+WEB+DEVELOPER.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+DREAMLANCER.;I+AM+A+SEASONED+WEB+DEVELOPER.;7+%2B%20years%20of%20coding%20experience;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
+
+<p>I'm a blockchain developer who implement a smart contract on Ethereum and EVM compatible chains by using Solidity/Hardhat, Truffle</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
 
 <h2>Languages</h2>
 
 <div>
   <a href="https://github.com/dreamlancer">
-    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
+    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=plastic&logo=bitcoin&logoColor=white" />
   </a>
   <a href="https://github.com/dreamlancer">
-    <img alt="Solidity" src="https://github.com/jayito/jayito/blob/main/icons/solidity.png" />
+    <img alt="Bitcoin" src="https://img.shields.io/badge/Ethereum-442288?style=plastic&logo=ethereum&logoColor=white" />
+  </a>
+  <a href="https://github.com/dreamlancer">
+    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-blue?style=plastic&logo=solidity&logoColor=white" />
+  </a>
+  <a href="https://github.com/dreamlancer">
+    <img alt="Solidity" src="https://img.shields.io/badge/Rust-443330?style=plastic&logo=rust&logoColor=white" />
+  </a>
+  <a href="https://github.com/dreamlancer">
+    <img alt="Solidity" src="https://img.shields.io/badge/Web3.js-11aa33?style=plastic&logo=web3.js&logoColor=white" />
   </a>
 </div>
 <div>
