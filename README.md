@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+DREAMLANCER.;I+AM+A+SEASONED+WEB+DEVELOPER.;7+%2B%20years%20of%20coding%20experience;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
 
-<p>I'm a blockchain developer who implement a smart contract on Ethereum and EVM compatible chains by using Solidity/Hardhat, Truffle</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamlancer&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
 
 <h2>Languages</h2>
