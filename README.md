@@ -80,51 +80,6 @@ Here are some ideas to get you started:
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
   </a>
 </div>
-<div>
-  <a href="https://github.com/dreamlancer">
-    <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white" />
-  </a>
-  <a href="https://github.com/jayitdreamlancero">
-    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
-  </a>
-  <a href="https://github.com/dreamlancer">  
-    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
-  </a>
-</div>
-<div>
-  <a href="https://github.com/dreamlancer">
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0f69a9?style=flat&logo=mysql&logoColor=white" />
-  </a>
-  <a href="https://github.com/dreamlancer">
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
-  </a>
-  <a href="https://github.com/dreamlancer">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-  </a>
-  <a href="https://github.com/dreamlancer">
-    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
-  </a>
-</div>
-<div>
-  <a href="https://github.com/dreamlancer">  
-    <img alt="Amazon" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  </a>
-  <a href="https://github.com/dreamlancer">  
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
-  </a>
-  <a href="https://github.com/dreamlancer">  
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  </a>
-  <a href="https://github.com/dreamlancer">  
-    <img alt="Gitlab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab" />
-  </a>
-  <a href="https://github.com/dreamlancer">  
-    <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
-  </a>
-  <a href="https://github.com/dreamlancer">  
-    <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
-  </a>
-</div>
 
 <h2>Status</h2>
 
